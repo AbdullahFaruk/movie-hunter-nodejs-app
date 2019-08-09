@@ -1,0 +1,17 @@
+{
+  "name": "moviehunter",
+  "version": "1.0.0",
+  "description": "Omdb Nodejs Sample",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}

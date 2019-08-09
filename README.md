@@ -1,1 +1,2 @@
-# movie-hunter-nodejs-app
+# MovieHunter
+omdbapi nodejs movie search
