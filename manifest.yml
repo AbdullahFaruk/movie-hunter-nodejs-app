@@ -1,0 +1,5 @@
+---
+applications:
+ - name: movie-hunter
+   random-route: true
+   memory: 256M
